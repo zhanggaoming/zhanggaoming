@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhanggaoming
+- 👋 Hi, I’m zhanggaoming
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning kotlin.
 
